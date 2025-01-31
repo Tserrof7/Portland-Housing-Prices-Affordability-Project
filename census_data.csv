@@ -1,0 +1,116 @@
+County Subdivision,Median Income,Median Rent,Year
+"Beavercreek CCD, Clackamas County, Oregon",93279,1325,41,005,90272,2019
+"Wilsonville CCD, Clackamas County, Oregon",76123,1319,41,005,93536,2019
+"Yoder CCD, Clackamas County, Oregon",81944,925,41,005,93587,2019
+"Estacada CCD, Clackamas County, Oregon",72458,1078,41,005,91088,2019
+"Redland CCD, Clackamas County, Oregon",81440,1296,41,005,92618,2019
+"Northwest Clackamas CCD, Clackamas County, Oregon",82525,1330,41,005,92261,2019
+"Canby CCD, Clackamas County, Oregon",73757,1064,41,005,90442,2019
+"Molalla CCD, Clackamas County, Oregon",66434,1070,41,005,91955,2019
+"Mount Hood CCD, Clackamas County, Oregon",79383,992,41,005,92023,2019
+"Colton CCD, Clackamas County, Oregon",70757,1125,41,005,90595,2019
+"Sandy CCD, Clackamas County, Oregon",78138,1251,41,005,92788,2019
+"Mulino CCD, Clackamas County, Oregon",82672,1147,41,005,92040,2019
+"Gresham CCD, Multnomah County, Oregon",58223,1186,41,051,91249,2019
+"Portland East CCD, Multnomah County, Oregon",68604,1240,41,051,92518,2019
+"Portland West CCD, Multnomah County, Oregon",82038,1293,41,051,92520,2019
+"Corbett CCD, Multnomah County, Oregon",80909,950,41,051,90663,2019
+"Skyline CCD, Multnomah County, Oregon",95000,1422,41,051,92975,2019
+"Beaverton-Hillsboro CCD, Washington County, Oregon",82338,1341,41,067,90289,2019
+"North Plains CCD, Washington County, Oregon",89563,1187,41,067,92210,2019
+"Forest Grove-Cornelius CCD, Washington County, Oregon",65825,1087,41,067,91156,2019
+"Chehalem Mountains CCD, Washington County, Oregon",84130,1290,41,067,90510,2019
+"Rockcreek CCD, Washington County, Oregon",89922,1479,41,067,92678,2019
+"Coast Range CCD, Washington County, Oregon",91076,1192,41,067,90561,2019
+"Canby CCD, Clackamas County, Oregon",76601,1168,41,005,90442,2020
+"Mount Hood CCD, Clackamas County, Oregon",71703,1063,41,005,92023,2020
+"Redland CCD, Clackamas County, Oregon",80887,1308,41,005,92618,2020
+"Beavercreek CCD, Clackamas County, Oregon",99750,1313,41,005,90272,2020
+"Colton CCD, Clackamas County, Oregon",69180,891,41,005,90595,2020
+"Estacada CCD, Clackamas County, Oregon",71529,1379,41,005,91088,2020
+"Molalla CCD, Clackamas County, Oregon",73405,1133,41,005,91955,2020
+"Mulino CCD, Clackamas County, Oregon",90850,1171,41,005,92040,2020
+"Northwest Clackamas CCD, Clackamas County, Oregon",85076,1388,41,005,92261,2020
+"Sandy CCD, Clackamas County, Oregon",82335,1259,41,005,92788,2020
+"Wilsonville CCD, Clackamas County, Oregon",76484,1375,41,005,93536,2020
+"Yoder CCD, Clackamas County, Oregon",87969,964,41,005,93587,2020
+"Portland West CCD, Multnomah County, Oregon",84064,1358,41,051,92520,2020
+"Corbett CCD, Multnomah County, Oregon",85603,1071,41,051,90663,2020
+"Gresham CCD, Multnomah County, Oregon",60801,1230,41,051,91249,2020
+"Portland East CCD, Multnomah County, Oregon",70803,1318,41,051,92518,2020
+"Skyline CCD, Multnomah County, Oregon",80325,1328,41,051,92975,2020
+"Beaverton-Hillsboro CCD, Washington County, Oregon",85659,1416,41,067,90289,2020
+"Chehalem Mountains CCD, Washington County, Oregon",98977,1389,41,067,90510,2020
+"Coast Range CCD, Washington County, Oregon",102578,1288,41,067,90561,2020
+"Forest Grove-Cornelius CCD, Washington County, Oregon",71221,1194,41,067,91156,2020
+"North Plains CCD, Washington County, Oregon",98298,1581,41,067,92210,2020
+"Rockcreek CCD, Washington County, Oregon",95912,1610,41,067,92678,2020
+"Beavercreek CCD, Clackamas County, Oregon",101283,1500,41,005,90272,2021
+"Canby CCD, Clackamas County, Oregon",83884,1226,41,005,90442,2021
+"Colton CCD, Clackamas County, Oregon",83614,549,41,005,90595,2021
+"Estacada CCD, Clackamas County, Oregon",67600,1139,41,005,91088,2021
+"Molalla CCD, Clackamas County, Oregon",78991,1216,41,005,91955,2021
+"Mount Hood CCD, Clackamas County, Oregon",79568,1251,41,005,92023,2021
+"Mulino CCD, Clackamas County, Oregon",97976,1685,41,005,92040,2021
+"Northwest Clackamas CCD, Clackamas County, Oregon",90286,1473,41,005,92261,2021
+"Redland CCD, Clackamas County, Oregon",93209,1536,41,005,92618,2021
+"Sandy CCD, Clackamas County, Oregon",91625,1362,41,005,92788,2021
+"Wilsonville CCD, Clackamas County, Oregon",79922,1492,41,005,93536,2021
+"Yoder CCD, Clackamas County, Oregon",96365,1436,41,005,93587,2021
+"Corbett CCD, Multnomah County, Oregon",96875,1576,41,051,90663,2021
+"Gresham CCD, Multnomah County, Oregon",64509,1328,41,051,91249,2021
+"Portland East CCD, Multnomah County, Oregon",75695,1396,41,051,92518,2021
+"Portland West CCD, Multnomah County, Oregon",89005,1447,41,051,92520,2021
+"Skyline CCD, Multnomah County, Oregon",85313,1571,41,051,92975,2021
+"Beaverton-Hillsboro CCD, Washington County, Oregon",90933,1523,41,067,90289,2021
+"Chehalem Mountains CCD, Washington County, Oregon",101131,1324,41,067,90510,2021
+"Coast Range CCD, Washington County, Oregon",104926,1387,41,067,90561,2021
+"Forest Grove-Cornelius CCD, Washington County, Oregon",75016,1226,41,067,91156,2021
+"North Plains CCD, Washington County, Oregon",102480,1791,41,067,92210,2021
+"Rockcreek CCD, Washington County, Oregon",101653,1672,41,067,92678,2021
+"Beavercreek CCD, Clackamas County, Oregon",114926,1506,41,005,90272,2022
+"Canby CCD, Clackamas County, Oregon",92312,1332,41,005,90442,2022
+"Colton CCD, Clackamas County, Oregon",90938,-666666666,41,005,90595,2022
+"Estacada CCD, Clackamas County, Oregon",72244,1339,41,005,91088,2022
+"Molalla CCD, Clackamas County, Oregon",84630,1397,41,005,91955,2022
+"Mount Hood CCD, Clackamas County, Oregon",86933,1371,41,005,92023,2022
+"Mulino CCD, Clackamas County, Oregon",111047,1895,41,005,92040,2022
+"Northwest Clackamas CCD, Clackamas County, Oregon",97109,1640,41,005,92261,2022
+"Redland CCD, Clackamas County, Oregon",104029,1422,41,005,92618,2022
+"Sandy CCD, Clackamas County, Oregon",106167,1510,41,005,92788,2022
+"Wilsonville CCD, Clackamas County, Oregon",83610,1687,41,005,93536,2022
+"Yoder CCD, Clackamas County, Oregon",110688,1233,41,005,93587,2022
+"Corbett CCD, Multnomah County, Oregon",108971,1640,41,051,90663,2022
+"Gresham CCD, Multnomah County, Oregon",72214,1454,41,051,91249,2022
+"Portland East CCD, Multnomah County, Oregon",82892,1518,41,051,92518,2022
+"Portland West CCD, Multnomah County, Oregon",97369,1567,41,051,92520,2022
+"Skyline CCD, Multnomah County, Oregon",94205,1715,41,051,92975,2022
+"Beaverton-Hillsboro CCD, Washington County, Oregon",99030,1687,41,067,90289,2022
+"Chehalem Mountains CCD, Washington County, Oregon",113963,1264,41,067,90510,2022
+"Coast Range CCD, Washington County, Oregon",105925,1417,41,067,90561,2022
+"Forest Grove-Cornelius CCD, Washington County, Oregon",81050,1295,41,067,91156,2022
+"North Plains CCD, Washington County, Oregon",116384,1699,41,067,92210,2022
+"Rockcreek CCD, Washington County, Oregon",111141,1811,41,067,92678,2022
+"Beavercreek CCD, Clackamas County, Oregon",122212,1417,41,005,90272,2023
+"Canby CCD, Clackamas County, Oregon",100013,1445,41,005,90442,2023
+"Colton CCD, Clackamas County, Oregon",80903,-666666666,41,005,90595,2023
+"Estacada CCD, Clackamas County, Oregon",77424,1286,41,005,91088,2023
+"Molalla CCD, Clackamas County, Oregon",87242,1517,41,005,91955,2023
+"Mount Hood CCD, Clackamas County, Oregon",89327,1469,41,005,92023,2023
+"Mulino CCD, Clackamas County, Oregon",113500,1774,41,005,92040,2023
+"Northwest Clackamas CCD, Clackamas County, Oregon",101721,1720,41,005,92261,2023
+"Redland CCD, Clackamas County, Oregon",114035,1470,41,005,92618,2023
+"Sandy CCD, Clackamas County, Oregon",111358,1571,41,005,92788,2023
+"Wilsonville CCD, Clackamas County, Oregon",85925,1802,41,005,93536,2023
+"Yoder CCD, Clackamas County, Oregon",109921,1387,41,005,93587,2023
+"Corbett CCD, Multnomah County, Oregon",108924,1786,41,051,90663,2023
+"Gresham CCD, Multnomah County, Oregon",75587,1510,41,051,91249,2023
+"Portland East CCD, Multnomah County, Oregon",85396,1592,41,051,92518,2023
+"Portland West CCD, Multnomah County, Oregon",99744,1613,41,051,92520,2023
+"Skyline CCD, Multnomah County, Oregon",101827,1777,41,051,92975,2023
+"Beaverton-Hillsboro CCD, Washington County, Oregon",103788,1761,41,067,90289,2023
+"Chehalem Mountains CCD, Washington County, Oregon",119651,1259,41,067,90510,2023
+"Coast Range CCD, Washington County, Oregon",110509,1582,41,067,90561,2023
+"Forest Grove-Cornelius CCD, Washington County, Oregon",87868,1411,41,067,91156,2023
+"North Plains CCD, Washington County, Oregon",115699,1553,41,067,92210,2023
+"Rockcreek CCD, Washington County, Oregon",111995,1906,41,067,92678,2023
