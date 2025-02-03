@@ -1,6 +1,6 @@
-Year,Washington County: Mean House Count,Clackamas County: Mean House Count,Multnomah County: Mean House Count,Average Rate,Washington County: Median Home Values,Clackamas County: Median Home Values,Multnomah County: Median Home Values
-2019,1514.0,1249.0,1249.0,4.0,386600,395100,386200
-2020,2180.0,1126.0,1126.0,3.0,413500,421100,410800
-2021,1728.0,1269.0,1269.0,3.0,439300,452200,437600
-2022,1686.0,1128.0,1128.0,5.0,504300,532200,492100
-2023,1631.0,866.0,866.0,7.0,558500,577900,528000
+Year,Washington County: Avg Monthly Listing,Clackamas County: Avg Monthly Listing,Multnomah County: Avg Monthly Listing,Average Rate,Washington County: Median Home Values,Clackamas County: Median Home Values,Multnomah County: Median Home Values
+2019,18173,14984,14984,4.0,386600,395100,386200
+2020,26155,13512,13512,3.0,413500,421100,410800
+2021,20742,15228,15228,3.0,439300,452200,437600
+2022,20230,13540,13540,5.0,504300,532200,492100
+2023,19575,10398,10398,7.0,558500,577900,528000
