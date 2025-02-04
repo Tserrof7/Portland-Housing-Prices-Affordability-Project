@@ -1,39 +1,12 @@
-Portland metro Home Values, Rent, and Affordability Trends (2019-2023)
+By focusing on the most recent publicly available data from 2019 to 2023, we aim to better visualize and comprehend the trends impacting the affordability crisis in Portland, Oregon’s three most populated counties: Clackamas, Multnomah, and Washington. To address this, we examine several key questions regarding affordability, including how median home values have changed with an emphasis on subdivisions, whether mortgage rates and housing supply affect home values, and how rental affordability has shifted relative to changes in income. Through this analysis, we seek to gain a clearer understanding of the affordability crisis and determine whether it is worsening.
 
-Background of the project
+Regarding housing values in specific subdivisions, between 2019 and 2023, home values in the Portland Metro Area increased significantly, with notable spikes observed between 2021 and 2022. Skyline, Portland West, and Wilsonville emerged as the most expensive areas, with Skyline reaching a median home value of $780,100 in 2023. Rapid price growth in Yoder, Estacada, and Mulino also contributed to reduced affordability in these regions. As home prices surged, affordability declined across the region, reflected in rising home value-to-income ratios. Skyline, Estacada, and Portland West reported the highest ratios, exceeding 7.0 in recent years, while Sandy, Molalla, and the Coast Range maintained relatively lower ratios around or below 5.0, indicating better affordability in those areas.
 
-The Portland metro area, encompassing Washington, Clackamas, and Multnomah counties, has experienced significant shifts in its housing market from 2019 to 2023. This project aims to analyze these changes and their implications on home values, rental prices, and income trends.
-Understanding these dynamics is crucial for various stakeholders, including homebuyers, renters, policymakers, and real estate professionals. The research will provide insights into:
+This surge in housing costs can be partially explained by analyzing the impact of mortgage rates on home values. A Pearson correlation analysis reveals a strong positive correlation (r > 0.83) and high R² values (~70-75%), indicating that mortgage rates significantly influenced home prices. Interestingly, home values continued to rise despite increasing mortgage rates, suggesting additional factors such as low housing inventory and strong demand played a role. Further analysis of housing supply's influence on home values showed varied impacts across counties. In Clackamas and Multnomah Counties, strong negative correlations (r = -0.8035 and r = -0.7952, respectively) suggest that decreasing housing supply significantly drove up home prices. Conversely, Washington County exhibited a weak negative correlation (r = -0.2353), implying other economic or demographic factors may play a more prominent role in its housing market dynamics.
 
+Regarding rental affordability, the general consensus is that spending over 30% of total income on rent is considered unaffordable (Herbert, Hermann, & McCue, 2018). By calculating median annual rent as a percentage of annual median income and comparing this ratio to the 30% threshold, we derive an affordability ratio, where percentages closer to 100% indicate lower affordability. In Multnomah County, affordability worsened from 71.5% in 2019 to 73.4% in 2023, reflecting a 1.9% decrease in affordability over five years. Clackamas County experienced the sharpest decline, with a 3.1% drop, though it remained the most affordable county at 67.5%. Washington County saw a 1.8% decrease in affordability, reaching 67.9% by 2023. Although all counties remain within the affordable rent threshold, trends indicate that rent is becoming less affordable over time.
 
-Objectives
+In conclusion, the Portland Metro Area has experienced a marked decline in housing affordability from 2019 to 2023, driven by rising home values, increasing mortgage rates, and escalating rental costs. While home prices surged notably in certain subdivisions, factors such as limited housing inventory and strong demand further intensified affordability challenges. Despite the strong correlation between mortgage rates and home values, persistent price increases underscore the influence of broader economic forces. Rental affordability has also declined, with income growth failing to keep pace with rising rents, particularly in Multnomah and Clackamas Counties. Although affordability metrics remain within standard thresholds, the consistent downward trend suggests that without targeted interventions to address housing supply, income disparities, and market pressures, the affordability crisis in Portland’s most populated counties will likely continue to worsen.
 
-The primary objectives of this research are to:
-Track and analyze median home value changes from 2019 to 2023.
-
-Assess the impact of changing mortgage rates on home values in Washington, Clackamas, and Multnomah counties.
-
-Examine how housing inventory levels have influenced home prices.
-
-Compare trends in income growth with rental price trends during the same period.
-
-Evaluate the potential future implications of these trends on rental affordability.
-
-Identify neighborhoods within the Portland metro area that are considered more affordable.
-
-By addressing these objectives, the research aims to provide a comprehensive understanding of the Portland metro housing market's recent past and outlook.
-In order to attain the above objectives, the project attempts to answer the following research questions:
-1. How have median home values changed in Portland metro counties from 2019 to 2023?
-2. How have changes in mortgage rates affected home values in these counties during this period?
-3. How has the supply of available homes impacted home prices in these counties between 2019 and 2023?
-4. How have household income levels changed compared to rental price trends during this period?
-5. What do these trends suggest about rental affordability in the future?
-6.Which subdivisions/neighborhoods in this area were more affordable during this period?
-
-Summary and conclusion of the project
-
-
-
-
-
-Citations
+References:
+Herbert, C. E., Hermann, A., & McCue, D. (2018). Measuring housing affordability: Assessing the 30 percent of income standard (Working Paper). Joint Center for Housing Studies of Harvard University. https://www.jchs.harvard.edu/sites/default/files/Harvard_JCHS_Herbert_Hermann_McCue_measuring_housing_affordability.pdf
