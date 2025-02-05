@@ -9,4 +9,14 @@ Regarding rental affordability, the general consensus is that spending over 30% 
 In conclusion, the Portland Metro Area has experienced a marked decline in housing affordability from 2019 to 2023, driven by rising home values, increasing mortgage rates, and escalating rental costs. While home prices surged notably in certain subdivisions, factors such as limited housing inventory and strong demand further intensified affordability challenges. Despite the strong correlation between mortgage rates and home values, persistent price increases underscore the influence of broader economic forces. Rental affordability has also declined, with income growth failing to keep pace with rising rents, particularly in Multnomah and Clackamas Counties. Although affordability metrics remain within standard thresholds, the consistent downward trend suggests that without targeted interventions to address housing supply, income disparities, and market pressures, the affordability crisis in Portland’s most populated counties will likely continue to worsen.
 
 References:
-Herbert, C. E., Hermann, A., & McCue, D. (2018). Measuring housing affordability: Assessing the 30 percent of income standard (Working Paper). Joint Center for Housing Studies of Harvard University. https://www.jchs.harvard.edu/sites/default/files/Harvard_JCHS_Herbert_Hermann_McCue_measuring_housing_affordability.pdf
+Federal Reserve Bank of St. Louis. (n.d.). ALFRED: Archival Federal Reserve Economic Data. Retrieved February 4, 2025, from https://alfred.stlouisfed.org/
+
+U.S. Census Bureau. (n.d.). United States Census Bureau. Retrieved February 4, 2025, from https://www.census.gov/
+
+U.S. Department of Housing and Urban Development. (n.d.). U.S. Department of Housing and Urban Development (HUD). Retrieved February 4, 2025, from https://www.hud.gov/
+
+Herbert, C. E., Hermann, A., & McCue, D. (2018). Measuring housing affordability: Assessing the 30 percent of income standard (Working Paper). Joint Center for Housing Studies of Harvard University. https://www.jchs.harvard.edu/sites/default/files/Harvard_JCHS_Herbert_Hermann_McCue_measuring_housing_affordability.pdf
+
+Special Thanks to:
+Parul Arias, Brian Perry, Angel Milla, ChatGPT
+
